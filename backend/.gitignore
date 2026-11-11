@@ -1,0 +1,5 @@
+.env
+node_modules/
+skilltrack.db
+skilltrack.db-shm
+skilltrack.db-wal
